@@ -1,0 +1,30 @@
+_repo: The-House-of-the-Misty-StarA-Romance-of-Youth-and-Hope-and-Love-in-Old-Japan_17108
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Little, Frances
+    alias: Macaulay, Fannie Caldwell
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '1901'
+    url: http://www.gutenberg.org/2009/agents/1901
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Little
+description: ''
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Japan -- Fiction'
+title: 'The House of the Misty Star
+
+  A Romance of Youth and Hope and Love in Old Japan'
+url: http://www.gutenberg.org/ebooks/17108
