@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1901
     wikipedia: http://en.wikipedia.org/wiki/Frances_Little
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17108#The-House-of-the-Misty-StarA-Romance-of-Youth-and-Hope-and-Love-in-Old-Japan
 gutenberg_issued: '2005-11-19'
 gutenberg_type: Text
 identifiers:
